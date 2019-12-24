@@ -1,4 +1,12 @@
 /**
+ * Apply to all
+ */
+* {
+    font-family: "Crimson Text", serif;
+}
+
+
+/**
  * Site header
  */
  .wrapper .container {
@@ -9,11 +17,25 @@
     text-align: center;
 }
 
+.site-title {
+    color: $grey-color-dark;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 1em;
+    padding: 35px 0 20px 0;
+    display: block;
+}
+
 .navbar {
     display: block;
 }
 
+.nav-items {
+    display: block;
+}
+
 .nav-item {
+    color: $grey-color-darkest;
     display: inline-block;
     padding: 1rem;
 }
