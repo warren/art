@@ -1,9 +1,23 @@
 ---
-layout: page
+layout: about
 title: about
-permalink: /about/
+permalink: /about
+photo: /assets/images/me.png
 ---
 
-Bavaria ipsum dolor sit amet hoid a bissal wos gehd ollaweil nomoi. Wolln mei Weißwiaschd sowos, koa Habedehre schaugn san. Foidweg sog i hoggd Kaiwe, wuid Marterl großherzig ned woar.
+Hello,
 
-Obandln singd Hendl spernzaln i hab an singan dringma aweng Hendl oamoi gwiss Fünferl. Xaver Auffisteign vasteh kumm geh i moan oiwei nia om auf’n Gipfe hoam obandeln.
+I made this site over winter break because I think instagram is overrated.
+
+I dedicate this site to my mom and dad
+
+And to my friends
+
+Big thanks to midzer on github for making this jekyll theme (literally any documentation would have been nice but I'll let it slide)
+
+Big thanks to github for letting me host stuff for free (u the best).
+
+Big thanks again to my mom and dad.
+
+I'm writing a long bio because the footer gets cut off when the text margin isn't long enough and I don't want to learn how to fix this problem yet
+
