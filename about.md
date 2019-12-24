@@ -19,5 +19,5 @@ Big thanks to github for letting me host stuff for free (u the best).
 
 Big thanks again to my mom and dad.
 
-I'm writing a long bio because the footer gets cut off when the text margin isn't long enough and I don't want to learn how to fix this problem yet
+This bio is long because the footer gets cut off when the text margin isn't long enough and I don't want to learn how to fix this problem yet
 

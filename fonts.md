@@ -1,7 +1,7 @@
 ---
 layout: page
 title: fonts
-permalink: /fonts/
+permalink: /fonts
 ---
 
 I have some thoughts about what makes a good font versus a bad font.
